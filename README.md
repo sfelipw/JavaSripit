@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <title>JavaScript Básico</title>
+    <title>corpo do javascript</title>
 </head>
 <body>
     <h1>Teste de JavaScript</h1>
